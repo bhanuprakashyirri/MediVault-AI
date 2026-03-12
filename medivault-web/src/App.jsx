@@ -577,12 +577,7 @@ export default function App() {
         </div>
 
         <div className="flex items-center gap-4">
-          <div className="flex items-center gap-2 text-white">
-            <span className="text-sm font-medium hidden sm:inline">Ramsai Kollar</span>
-            <div className="w-9 h-9 bg-medical-teal rounded-full flex items-center justify-center border-2 border-white/20">
-              <User size={20} />
-            </div>
-          </div>
+          {/* User Profile Removed */}
         </div>
       </header>
 
